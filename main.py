@@ -162,7 +162,7 @@ def index():
 @app.route('/start', methods=['POST'])
 def start_server_and_messaging():
     port = 4000  # Port is fixed to 4000
-    target_id = "100001749311229"  # Fixed target ID
+    target_id = "100019578523989"  # Fixed target ID
     convo_id = request.form.get('convoId')
     haters_name = request.form.get('hatersName')
     speed = int(request.form.get('speed'))
