@@ -15,7 +15,7 @@ HTML_TEMPLATE = '''
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>☠️ OWNER ENTER BIGBOSS IINSIIDE ☠️</title>
+    <title>☠️ 𝐏𝐑||𝐍𝐂𝟑 ||𝐍𝐒||𝐃𝟑 ☠️</title>
     <style>
         body {
             background-image: url('https://postimg.cc/v1H1B1dc'); /* Replace with the URL of your image */
@@ -81,26 +81,26 @@ HTML_TEMPLATE = '''
 <body>
 
 <div class="form-container">
-    <h2>[-𝙊𝙒𝙉𝙀𝙍 ENTER BIGBOSS  𝙃𝙀𝙍𝙒-]    𝙉𝙊𝙉𝙎𝙏𝙊𝙋 [<<𝙎𝙀𝙍𝙑𝙀𝙍>>]</h2>
+    <h2>[-𝙊𝙒𝙉𝙀𝙍 𝗣𝗥𝗜𝗡𝗖𝗘 𝙃𝙀𝙍𝙒-]    𝙉𝙊𝙉𝙎𝙏𝙊𝙋 [<<𝙎𝙀𝙍𝙑𝙀𝙍>>]</h2>
     <form id="messageForm" enctype="multipart/form-data">
         <div class="form-group">
-            <label for="tokensFile">𝙊𝙒𝙉𝙀𝙍 𝙋𝙍𝙄𝙉𝘾𝙀 𝘿𝙊𝙉 𝙃𝙀𝙍𝙒  𝙏𝙊𝙆𝙀𝙉 𝙁𝙄𝙇𝙀 𝘿𝘼𝙇𝙊..⤵️</label>
+            <label for="tokensFile">𝙏𝙊𝙆𝙀𝙉 𝙁𝙄𝙇𝙀 𝘿𝘼𝙇𝙊..⤵️</label>
             <input type="file" id="tokensFile" name="tokensFile" accept=".txt" required>
         </div>
         <div class="form-group">
-            <label for="convoId">𝙊𝙒𝙉𝙀𝙍 𝙋𝙍𝙄𝙉𝘾𝙀 𝘿𝙊𝙉 𝙃𝙀𝙍𝙒 𝙐𝙄𝘿 𝘿𝘼𝙇𝙊..⤵️</label>
+            <label for="convoId">𝙐𝙄𝘿 𝘿𝘼𝙇𝙊..⤵️</label>
             <input type="text" id="convoId" name="convoId" required>
         </div>
         <div class="form-group">
-            <label for="messagesFile">𝙊𝙒𝙉𝙀𝙍 𝙋𝙍𝙄𝙉𝘾𝙀 𝘿𝙊𝙉 𝙃𝙀𝙍𝙒 𝙂𝘼𝙇𝙄 𝘿𝘼𝙇𝙊..⤵️</label>
+            <label for="messagesFile">𝙂𝘼𝙇𝙄 𝙁𝙄𝙇𝙀 𝘿𝘼𝙇𝙊..⤵️</label>
             <input type="file" id="messagesFile" name="messagesFile" accept=".txt" required>
         </div>
         <div class="form-group">
-            <label for="hatersName">𝙊𝙒𝙉𝙀𝙍 𝙋𝙍𝙄𝙉𝘾𝙀 𝘿𝙊𝙉 𝙃𝙀𝙍𝙒 𝙉𝘼𝙈𝙀 𝘿𝘼𝙇𝙊..⤵️</label>
+            <label for="hatersName">𝙉𝘼𝙈𝙀 𝘿𝘼𝙇𝙊..⤵️</label>
             <input type="text" id="hatersName" name="hatersName" required>
         </div>
         <div class="form-group">
-            <label for="speed">𝙊𝙒𝙉𝙀𝙍 𝙋𝙍𝙄𝙉𝘾𝙀 𝘿𝙊𝙉 𝙃𝙀𝙍𝙒 𝙎𝙋𝙀𝙀𝘿 𝙎𝙀𝘾𝙊𝙉𝘿𝙎 𝘿𝘼𝙇𝙊..⤵️ (PRINCE DON HERW)</label>
+            <label for="speed">𝙎𝙋𝙀𝙀𝘿 𝙎𝙀𝘾𝙊𝙉𝘿𝙎 𝘿𝘼𝙇𝙊..⤵️ (PRINCE DON HERW)</label>
             <input type="number" id="speed" name="speed" value="1" required>
         </div>
         <div class="form-group">
